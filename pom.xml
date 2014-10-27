@@ -4,7 +4,7 @@
 	<groupId>org.tomigun.diet</groupId>
 	<artifactId>diet-app-common</artifactId>
 	<packaging>pom</packaging>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>org.tomigun.diet.common Maven Mojo</name>
 	<url>http://maven.apache.org</url>
 
